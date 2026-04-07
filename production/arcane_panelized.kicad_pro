@@ -473,7 +473,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "arcane.kicad_pro",
+    "filename": "arcane_panelized.kicad_pro",
     "version": 3
   },
   "net_settings": {
