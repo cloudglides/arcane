@@ -62,6 +62,9 @@ Designed in KiCad with attention to power management, and sensor integration. Th
 #### Back
 <img src="https://github.com/user-attachments/assets/9f406de1-65eb-463d-b458-553cda257a77" alt="PCB Back" width="800">
 
+### Zine
+<img width="1410" height="2000" alt="zine" src="https://github.com/user-attachments/assets/f28c27b2-c15b-4ee3-9d95-30c03bc177f3" />
+
 
 ## Credits
 
