@@ -21,7 +21,7 @@ Not made to fit in.
   <a href="#key-features">Key Features</a> •
   <a href="#pcb">PCB</a> •
   <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
+  <a href="https://cad.onshape.com/documents/baa818ee84ef2f4d77ad3dd0/w/c81d48ad1380c2f5a8fcb43e/e/6969773442ae77088a680f19?renderMode=0&uiState=69d54a864821e9fdfe97775f">OnShape</a>
 </p>
 
 <img align="center" src="https://github.com/user-attachments/assets/3f3077d6-a5a0-49b4-9383-d7a444f3dce5" alt="Arcane Banner" width="1000"/>
