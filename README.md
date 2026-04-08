@@ -5,18 +5,15 @@
   Arcane
   <br>
 </h1>
-
 <h4 align="center">
 Not made to fit in.
 </h4>
-
 <div align="center">
 
 ![KiCad](https://img.shields.io/badge/kicad-%2300578F.svg?style=for-the-badge&logo=kicad&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 </div>
-
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#pcb">PCB</a> •
@@ -26,8 +23,13 @@ Not made to fit in.
 
 <img align="center" src="https://github.com/user-attachments/assets/3f3077d6-a5a0-49b4-9383-d7a444f3dce5" alt="Arcane Banner" width="1000"/>
 
-## Key Features
+Arcane is a custom wireless smartwatch PCB built around the Seeed XIAO nRF52840, packing Bluetooth, a 6-axis IMU, and LiPo charging into a panelized, manufacturable board.
 
+Built because most smartwatches don't let you own what's inside. Arcane is designed from scratch — open, hackable, and exactly what's needed.
+
+To build your own, grab the KiCad files, review the schematic below, and send the panelized design to your preferred PCB fab. Flash your firmware over USB-C and you're good to go.
+
+## Key Features
 - **Seeed Studio XIAO BLE nRF52840** microcontroller with Bluetooth support
 - **Accelerometer** - ICM-42688 (6-axis) for motion sensing
 - **Battery charging** with Integrated IC and solder pad for 1S LiPo
@@ -65,15 +67,12 @@ Designed in KiCad with attention to power management, and sensor integration. Th
 ### Zine
 <img width="1410" height="2000" alt="zine" src="https://github.com/user-attachments/assets/f28c27b2-c15b-4ee3-9d95-30c03bc177f3" />
 
-
 ## Credits
 
 This project uses:
-
 - [KiCad](https://www.kicad.org/)
 - [OnShape](https://cad.onshape.com/) for cad
 - [Hack Club Fallout](https://fallout.hackclub.com)
-
 
 ## License
 
