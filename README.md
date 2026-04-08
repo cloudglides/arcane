@@ -29,6 +29,8 @@ Built because most smartwatches don't let you own what's inside. Arcane is desig
 
 To build your own, grab the KiCad files, review the schematic below, and send the panelized design to your preferred PCB fab. Flash your firmware over USB-C and you're good to go.
 
+Every smartwatch on the market is a black box. Arcane exists to change that.
+
 ## Key Features
 - **Seeed Studio XIAO BLE nRF52840** microcontroller with Bluetooth support
 - **Accelerometer** - ICM-42688 (6-axis) for motion sensing
