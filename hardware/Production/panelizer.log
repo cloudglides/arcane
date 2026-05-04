@@ -1,0 +1,12 @@
+2026-05-04 12:26:04,763 - panelizer_logger - WARNING - Version check failed. "10.0.0" may not be supported. Panelizing may fail
+2026-05-04 12:26:09,256 - panelizer_logger - WARNING - 
+START: 2026-05-04T12:26:04.774341
+Board saved by user.
+Zones filled by Panelizer.
+
+Board: /home/cloudglides/arcane/hardware/Production/arcane_panelized.kicad_pcb
+Board dimensions: 43.15 x 32.85 mm.
+You can fit 2 x 2 boards on the panel.
+Zones refilled by Panelizer.
+Warning: Ordering Instructions contains default values.
+
