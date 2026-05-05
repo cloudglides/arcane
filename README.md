@@ -74,7 +74,8 @@ Designed in KiCad with attention to power management, and IC integration. The bo
 
 
 ### Zine
-<img width="1410" height="2000" alt="zine" src="https://github.com/user-attachments/assets/f28c27b2-c15b-4ee3-9d95-30c03bc177f3" />
+<img width="1414" height="2000" alt="ara" src="https://github.com/user-attachments/assets/a7a48c5d-4752-4082-bc31-8ea17644215b" />
+
 
 ## Credits
 
