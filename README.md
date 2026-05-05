@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/cloudglides/arcane/refs/heads/main/assets/public/assembled.png" alt="Arcane" width="200">
+  <img src="https://github.com/user-attachments/assets/a4bd9777-5941-4323-b698-3aa97577624c" alt="Arcane" width="200">
   <br>
-  Arcane
+  Ara
   <br>
 </h1>
 <h4 align="center">
-Not made to fit in.
+Open Time. Open Source.
 </h4>
 <div align="center">
 
@@ -17,23 +17,25 @@ Not made to fit in.
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#pcb">PCB</a> •
-  <a href="#credits">Credits</a> •
-  <a href="https://cad.onshape.com/documents/baa818ee84ef2f4d77ad3dd0/w/c81d48ad1380c2f5a8fcb43e/e/6969773442ae77088a680f19?renderMode=0&uiState=69d54a864821e9fdfe97775f">OnShape</a>
+  <a href="#credits">Credits</a> 
 </p>
 
-<img align="center" src="https://github.com/user-attachments/assets/3f3077d6-a5a0-49b4-9383-d7a444f3dce5" alt="Arcane Banner" width="1000"/>
 
-Arcane is a custom wireless smartwatch PCB built around the Seeed XIAO nRF52840, packing Bluetooth, a 6-axis IMU, and LiPo charging into a panelized, manufacturable board.
+<img align="center" src="https://github.com/user-attachments/assets/5c2f6599-a1eb-465e-b3ca-817c138ac611" alt="Arcane Banner" width="1000"/>
 
-Built because most smartwatches don't let you own what's inside. Arcane is designed from scratch — open, hackable, and exactly what's needed.
+<br>
 
-To build your own, grab the KiCad files, review the schematic below, and send the panelized design to your preferred PCB fab. Flash your firmware over USB-C and you're good to go.
 
-Every smartwatch on the market is a black box. Arcane exists to change that.
+Ara is a custom watch PCB built around the Seeed STM32, and LiPo charging into a panelized, manufacturable board.
+
+Built because most smartwatches don't let you own what's inside. Ara is designed from scratch open source and exactly what's needed.
+
+To build your own, grab the KiCad files, review the schematic below, and send the panelized design to your preferred PCB fab. Flash your firmware over STM32 HEADER PINS and you're good to go.
+
+Every smartwatch on the market is firmware locked. Ara exists to change that.
 
 ## Key Features
-- **Seeed Studio XIAO BLE nRF52840** microcontroller with Bluetooth support
-- **Accelerometer** - ICM-42688 (6-axis) for motion sensing
+- **STM32** microcontroller which can go into ultra low power mode
 - **Battery charging** with Integrated IC and solder pad for 1S LiPo
 - **Multiple Status LEDs** for visual feedback
 - **USB-C** connectivity
@@ -41,30 +43,35 @@ Every smartwatch on the market is a black box. Arcane exists to change that.
 
 ## PCB
 
-Designed in KiCad with attention to power management, and sensor integration. The board features a 2-layer optimized routing.
+Designed in KiCad with attention to power management, and IC integration. The board features a 2-layer optimized routing.
 
 ### Schematic
-<img src="https://github.com/user-attachments/assets/423a3a55-c85c-49ec-9b75-beca2ebc9ae2" alt="Schematic" width="800">
+<img width="1162" height="821" alt="image" src="https://github.com/user-attachments/assets/88ed4595-c056-47f3-bec7-f22141d5f7c1" />
+
 
 ---
 
 ### PCB Layers
 
 #### Layer 1
-<img src="https://github.com/user-attachments/assets/bc58e869-0af0-4be9-b2ff-0f62f84a8958" alt="PCB Layer 1" width="800">
+<img width="1292" height="515" alt="image" src="https://github.com/user-attachments/assets/5b282b25-9765-4597-8e59-c78f361c0eda" />
+
 
 #### Layer 2
-<img src="https://github.com/user-attachments/assets/d5100def-03a3-4faa-953d-0a9a09b29399" alt="PCB Layer 2" width="800">
+<img width="1292" height="515" alt="image" src="https://github.com/user-attachments/assets/25e121d3-19c0-42a0-9642-6446566097d6" />
+
 
 ---
 
 ### Board Views
 
 #### Front
-<img src="https://github.com/user-attachments/assets/d378cd68-da5e-42d2-af6b-b21741b9a3b0" alt="PCB Front" width="800">
+<img width="1382" height="515" alt="image" src="https://github.com/user-attachments/assets/63c71fe0-e220-4f5d-b9bb-d1ac21a1de62" />
+
 
 #### Back
-<img src="https://github.com/user-attachments/assets/9f406de1-65eb-463d-b458-553cda257a77" alt="PCB Back" width="800">
+<img width="1382" height="515" alt="image" src="https://github.com/user-attachments/assets/9bc4c7c3-74b7-4afe-a87b-704a7da0109c" />
+
 
 ### Zine
 <img width="1410" height="2000" alt="zine" src="https://github.com/user-attachments/assets/f28c27b2-c15b-4ee3-9d95-30c03bc177f3" />
@@ -73,7 +80,7 @@ Designed in KiCad with attention to power management, and sensor integration. Th
 
 This project uses:
 - [KiCad](https://www.kicad.org/)
-- [OnShape](https://cad.onshape.com/) for cad
+- [Blender](https://www.blender.org/) for renders
 - [Hack Club Fallout](https://fallout.hackclub.com)
 
 ## License
