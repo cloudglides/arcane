@@ -5988,7 +5988,7 @@
 			(uuid "18b3cee7-5bec-4dd0-b892-888c73d3ea1e")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "R1")
 					(unit 1)
@@ -6070,7 +6070,7 @@
 			(uuid "115cf09d-6aa4-469d-8843-011f9f700116")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "C9")
 					(unit 1)
@@ -6110,7 +6110,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-100x"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
 			(at 43.18 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -6150,7 +6150,7 @@
 			(uuid "09e60561-05ba-487b-8d8a-a5e96a5281a1")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "SW3")
 					(unit 1)
@@ -6418,7 +6418,7 @@
 			(uuid "131680d8-66ac-4ffd-979f-761955cd29c5")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "U3")
 					(unit 1)
@@ -6499,7 +6499,7 @@
 			(uuid "165d3f83-17b9-40a0-8eda-13a6bd17476a")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "R4")
 					(unit 1)
@@ -6577,7 +6577,7 @@
 			(uuid "47c4b661-3fb1-42c0-b19e-ffc996cc3340")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR022")
 					(unit 1)
@@ -6653,7 +6653,7 @@
 			)
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "H4")
 					(unit 1)
@@ -6730,7 +6730,7 @@
 			(uuid "3eaaa08f-e283-4e3d-986b-0ad8ace8f45f")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR012")
 					(unit 1)
@@ -6806,7 +6806,7 @@
 			)
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "H1")
 					(unit 1)
@@ -6883,7 +6883,7 @@
 			(uuid "a92073af-29cf-4052-b848-6f6115797b1e")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR016")
 					(unit 1)
@@ -6964,7 +6964,7 @@
 			(uuid "d097dd33-be84-47ad-9717-89172ffb06c4")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "C11")
 					(unit 1)
@@ -7043,7 +7043,7 @@
 			(uuid "545c5c2c-9d5d-4189-89dd-042117e9e9e5")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "TP1")
 					(unit 1)
@@ -7121,7 +7121,7 @@
 			(uuid "9b482de9-f539-412c-8663-81f0fdc7393c")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR01")
 					(unit 1)
@@ -7203,7 +7203,7 @@
 			(uuid "bce99324-16c2-446e-a3a0-bf87f1c5fa8b")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "C7")
 					(unit 1)
@@ -7282,7 +7282,7 @@
 			(uuid "987aacbf-0493-4e19-85d9-e8a3bdee8e18")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "TP3")
 					(unit 1)
@@ -7360,7 +7360,7 @@
 			(uuid "0e692df3-9000-4ffe-90ff-923437572735")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR06")
 					(unit 1)
@@ -7449,7 +7449,7 @@
 			(uuid "48767ddb-a5e6-45b7-9be3-d0da5b3528e8")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "U1")
 					(unit 1)
@@ -7528,7 +7528,7 @@
 			(uuid "025e5a76-d63f-46ea-9e2a-43e6338ca7c1")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "R2")
 					(unit 1)
@@ -7606,7 +7606,7 @@
 			(uuid "eccb328e-bd10-426c-a225-5ab115c50e10")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR015")
 					(unit 1)
@@ -7688,7 +7688,7 @@
 			(uuid "f9a689f9-615f-450e-b1dd-17f3bd016e21")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "R6")
 					(unit 1)
@@ -7770,7 +7770,7 @@
 			(uuid "8a4a2710-70d9-4e40-b96e-a6724904d439")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "J3")
 					(unit 1)
@@ -7847,7 +7847,7 @@
 			(uuid "2f17cd3b-f4f9-4cea-ac9c-c8705a94e8d6")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR017")
 					(unit 1)
@@ -7929,7 +7929,7 @@
 			(uuid "67e62eed-5c41-4d44-8fa1-3402fea7878d")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "C2")
 					(unit 1)
@@ -8006,7 +8006,7 @@
 			(uuid "d931db97-788b-455a-8e63-61bc851e4dbf")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR020")
 					(unit 1)
@@ -8087,7 +8087,7 @@
 			(uuid "5491b658-e7f9-4135-8ecf-be5683b55c2d")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "F1")
 					(unit 1)
@@ -8165,7 +8165,7 @@
 			(uuid "a00bb8dd-9404-47fd-81d1-ef7082d58eef")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR02")
 					(unit 1)
@@ -8247,7 +8247,7 @@
 			(uuid "78a265ec-12d0-441c-8f7f-4318e0a7d626")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "C13")
 					(unit 1)
@@ -8325,7 +8325,7 @@
 			(uuid "0099ec94-6c46-42eb-b4df-8f9fc8c32392")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "TP2")
 					(unit 1)
@@ -8365,7 +8365,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-100x"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
 			(at 43.18 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -8405,7 +8405,7 @@
 			(uuid "57d5c759-e90f-4cb1-8d51-1d383da77365")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "SW2")
 					(unit 1)
@@ -8483,7 +8483,7 @@
 			(uuid "ec4ad8b5-fe04-422c-be08-8a67b4bd82d3")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR05")
 					(unit 1)
@@ -8564,7 +8564,7 @@
 			(uuid "0efc67d9-05fc-44f1-a843-839dd452057a")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "R5")
 					(unit 1)
@@ -8642,7 +8642,7 @@
 			(uuid "4b7bd9e5-b945-4f50-a083-c8739f808d6b")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR07")
 					(unit 1)
@@ -8724,7 +8724,7 @@
 			(uuid "d3ad1249-97fc-4174-aaf4-31c569375943")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "C10")
 					(unit 1)
@@ -8806,7 +8806,7 @@
 			(uuid "e76d0500-6ee5-4904-9665-6dabf64aa31b")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "C3")
 					(unit 1)
@@ -8883,7 +8883,7 @@
 			(uuid "99d5a497-c5b4-4743-b7e7-3df293175c0d")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR021")
 					(unit 1)
@@ -8959,7 +8959,7 @@
 			)
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "H2")
 					(unit 1)
@@ -9052,7 +9052,7 @@
 			(uuid "eef93335-55e9-4cbe-98d5-47e27dcdb5a2")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "D1")
 					(unit 1)
@@ -9144,7 +9144,7 @@
 			(uuid "613e8a7c-1848-454f-b10a-9c08391044e7")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "U2")
 					(unit 1)
@@ -9226,7 +9226,7 @@
 			(uuid "547d09f3-46d6-49d2-964f-bfa054019f45")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "C1")
 					(unit 1)
@@ -9302,7 +9302,7 @@
 			)
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "H3")
 					(unit 1)
@@ -9382,7 +9382,7 @@
 			(uuid "f68de95b-853d-4873-a078-14d48645e5d1")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "Y1")
 					(unit 1)
@@ -9464,7 +9464,7 @@
 			(uuid "d579ea13-f88c-477b-9ec9-f5573a3d05c8")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "C4")
 					(unit 1)
@@ -9542,7 +9542,7 @@
 			(uuid "6587ce91-ac8c-48e3-88ba-c5304a46eed0")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR018")
 					(unit 1)
@@ -9624,7 +9624,7 @@
 			(uuid "ceaa3f35-9b95-4001-ab11-629c5cbb4697")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "C5")
 					(unit 1)
@@ -9715,7 +9715,7 @@
 			(uuid "1c6fc45f-9049-42fa-8efd-5f50ad5efbac")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "D2")
 					(unit 1)
@@ -9793,7 +9793,7 @@
 			(uuid "ef114ef2-b8a6-474e-afef-76e58ec9fbc8")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR019")
 					(unit 1)
@@ -9870,7 +9870,7 @@
 			(uuid "2f5dc622-3924-4b56-933c-5c1edb6c1689")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR023")
 					(unit 1)
@@ -9952,7 +9952,7 @@
 			(uuid "009bdced-2de0-46c7-8b69-be79b21e148d")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "C8")
 					(unit 1)
@@ -10031,7 +10031,7 @@
 			(uuid "6c766e58-13b9-4784-aa9d-3dca006dc437")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "R3")
 					(unit 1)
@@ -10109,7 +10109,7 @@
 			(uuid "7d29efe7-df82-4b2d-8587-7bb1bb36a8a4")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR04")
 					(unit 1)
@@ -10187,7 +10187,7 @@
 			(uuid "f1fb0983-4ca4-4234-b9ac-de8d57f35865")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR010")
 					(unit 1)
@@ -10265,7 +10265,7 @@
 			(uuid "86388e63-a25d-47a7-9f0d-8d45bbc9d3bd")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR08")
 					(unit 1)
@@ -10342,7 +10342,7 @@
 			(uuid "ef46fdd7-8b15-4eda-b013-6a9dd3139fc2")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR014")
 					(unit 1)
@@ -10467,7 +10467,7 @@
 			(uuid "530e63f4-37e5-4aa4-819b-6daa1613caf0")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "J1")
 					(unit 1)
@@ -10545,7 +10545,7 @@
 			(uuid "3c76abd9-e470-432c-bdba-ece363a09a99")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR011")
 					(unit 1)
@@ -10622,7 +10622,7 @@
 			(uuid "4f951ecf-be25-44b5-9d5f-33baaa2d7b6d")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "TP4")
 					(unit 1)
@@ -10716,7 +10716,7 @@
 			(uuid "caede141-83ae-4f59-b8ae-61b476a9e8fa")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "J4")
 					(unit 1)
@@ -10794,7 +10794,7 @@
 			(uuid "e2162df5-fb54-4171-969c-4afd05808a56")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR03")
 					(unit 1)
@@ -10891,7 +10891,7 @@
 			(uuid "ac903898-adbf-448e-a105-5565d9230751")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "J2")
 					(unit 1)
@@ -10969,7 +10969,7 @@
 			(uuid "70028af8-ecf4-4a01-bb09-3cf5be8a97d4")
 		)
 		(instances
-			(project "arcane_panelized"
+			(project "arcane"
 				(path "/1f77d9ea-a7f8-4bd5-9b2a-3d0e599b2c25"
 					(reference "#PWR013")
 					(unit 1)
