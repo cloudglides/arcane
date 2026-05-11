@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/user-attachments/assets/a4bd9777-5941-4323-b698-3aa97577624c" alt="Arcane" width="200">
+  <img src="https://github.com/user-attachments/assets/1f279222-1232-42cc-9fe2-397fd5822b01" alt="Ara" width="200">
   <br>
   Ara
   <br>
@@ -21,14 +21,13 @@ Open Time. Open Source.
 </p>
 
 
-<img align="center" src="https://github.com/user-attachments/assets/5c2f6599-a1eb-465e-b3ca-817c138ac611" alt="Arcane Banner" width="1000"/>
+<img width="3780" height="1890" alt="Ara Banner" src="https://github.com/user-attachments/assets/1d012b65-7ab4-48b6-9b5a-9f7adbed63d1" />
 
-<br>
+<p>&nbsp;</p>
 
 
-Ara is a custom watch PCB built around the Seeed STM32, and LiPo charging into a panelized, manufacturable board.
-
-Built because most smartwatches don't let you own what's inside. Ara is designed from scratch open source and exactly what's needed.
+Ara is a custom watch PCB built around STM32, and LiPo charging into a 2 layer manufacturable board.
+Built because most smartwatches don't let you know whats inside. Ara is designed from scratch open source and exactly what's needed.
 
 To build your own, grab the KiCad files, review the schematic below, and send the panelized design to your preferred PCB fab. Flash your firmware over STM32 HEADER PINS and you're good to go.
 
@@ -74,7 +73,8 @@ Designed in KiCad with attention to power management, and IC integration. The bo
 
 
 ### Zine
-<img width="1414" height="2000" alt="ara" src="https://github.com/user-attachments/assets/a7a48c5d-4752-4082-bc31-8ea17644215b" />
+<img width="1414" height="2000" alt="ara" src="https://github.com/user-attachments/assets/0f217b02-ad35-4524-8117-f4252e49f8ef" />
+
 
 
 ## Credits
